@@ -10,6 +10,7 @@ display();
 public static String display()
 {
 System.out.println("name=" +name);
+System.out.println("add");
 return name;
 }
 }
